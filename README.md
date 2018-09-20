@@ -1,1 +1,1 @@
-homepage of Shuxin Ding
+# jackietindd.github.io
