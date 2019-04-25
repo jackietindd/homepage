@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+Most of my papers are listed here, see also my [https://scholar.google.com/citations?user=58sv3ZgAAAAJ&hl=zh-CN Google Scholar] or [https://www.researchgate.net/profile/Shuxin_Ding ResearchGate] profile. Please contact me if you need further information.
+
+== Journal Papers
+. W. Xu, C. Chen, S. Ding, P. M. Pardalos. A bi-objective dynamic collaborative task assignment under uncertainty using modified MOEA/D with heuristic initialization. Submitted to Expert Systems with Applications.
+. S. Ding, C. Chen, B. Xin, P. M. Pardalos. [https://www.sciencedirect.com/science/article/pii/S1568494617305513 A bi-objective load balancing model in a distributed simulation system using NSGA-II and MOPSO approaches]. Applied Soft Computing, 2018, 63: 249-267. \[[papers/ding2018bi.pdf pdf]\] \[[https://github.com/jackietindd/MOPSO-CD-ELS code]\]
+. S. Ding, C. Chen, B. Xin, J. Chen, [http://jcta.cnjournals.com/cta_cn/ch/reader/view_abstract.aspx?file_no=CCTA141060&flag=1 Status and progress in deployment optimization of firepower units]. Kongzhi Lilun Yu Yingyong/Control Theory and Application, 2015, 32(12), 1569-1581. \[[papers/ding2015status.pdf pdf]\]
+. S. Ding, C. Chen, J. Chen, B. Xin, [https://www.fujipress.jp/jaciii/jc/jacii001800020107/ An Improved Particle Swarm Optimization Deployment for Wireless Sensor Networks]. Journal of Advanced Computational Intelligence and Intelligent Informatics, 2014, 18(2), 107-112. \[[papers/ding2014improved.pdf pdf]\] ([https://www.fujipress.jp/award/jc-award2017/ JACIII Young Researcher Award], 2017)
+
+== Conference Papers
+. Y. Wei, S. Ding, H. Fang, X. Zeng, Q. Yang, B. Xin. Distributed Nonsmooth Robust Resource Allocation with Cardinality Constrained Uncertainty. 2019 CCC, accepted. \[[papers/wei2019distributed.pdf pdf]\]
+. S. Sun, S. Ding. Bunker hedging with Expected Loss Control by buffered Probability of Exceedance and Conditional Value-at-Risk. In IAME 2017 Conference. Kyoto, Japan. \[[papers/sun2017bunker.pdf pdf]\]
+. Z. Sun, S. Ding. [https://ieeexplore.ieee.org/abstract/document/6896024 Research on Standardized Development Method of Scenario for Combat Information Simulation System]. In Proc. of 33rd Chinese Control Conference (CCC). IEEE, 2014: 6298-6303. \[[papers/sun2014research.pdf pdf]\]
+. S. Ding, J. Chen, C. Chen, B. Xin. An improved deployment algorithm for wireless sensor networks based on Particle Swarm Optimization. Proceedings of the Ninth China-Japan International Workshop on Internet Technology and Control Applications, 2013: 138-142. \[[papers/ding2013improved.pdf pdf]\]
